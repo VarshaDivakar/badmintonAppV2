@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.174" height="20.969" viewBox="0 0 23.174 20.969">
+  <g id="Group_42412" data-name="Group 42412" transform="translate(-50.188 -392.5)">
+    <g id="Icon_ionic-ios-wallet" data-name="Icon ionic-ios-wallet" transform="translate(50.688 392.5)">
+      <path id="Path_44451" data-name="Path 44451" d="M20.663,5.625H4.886a3.2,3.2,0,0,0-3.2,3.2v8.955a3.2,3.2,0,0,0,3.2,3.2H20.663a3.2,3.2,0,0,0,3.2-3.2V8.823A3.2,3.2,0,0,0,20.663,5.625Z" transform="translate(-1.688 -0.507)" fill="none" stroke="#1040ba" stroke-width="1"/>
+      <path id="Path_44452" data-name="Path 44452" d="M17.116,2.3,4.6,4.75C3.636,4.963,2.25,5.928,2.25,7.1A3.358,3.358,0,0,1,4.862,6.088h15.3V5a3.061,3.061,0,0,0-.741-2h0A2.521,2.521,0,0,0,17.116,2.3Z" transform="translate(-1.397 -2.25)" fill="#1040ba"/>
+      <g id="Path_44454" data-name="Path 44454" transform="translate(0.474 8.339)" fill="none">
+        <path d="M0,0H21.226V3.032H0Z" stroke="none"/>
+        <path d="M 1.000003814697266 0.9999992847442627 L 1.000003814697266 2.032319068908691 L 20.22622489929199 2.032319068908691 L 20.22622489929199 0.9999992847442627 L 1.000003814697266 0.9999992847442627 M 3.814697265625e-06 -7.152557373046875e-07 L 21.22622489929199 -7.152557373046875e-07 L 21.22622489929199 3.032319068908691 L 3.814697265625e-06 3.032319068908691 L 3.814697265625e-06 -7.152557373046875e-07 Z" stroke="none" fill="#1040ba"/>
+      </g>
+      <line id="Line_165" data-name="Line 165" x2="10.613" transform="translate(1.232 13.646)" fill="none" stroke="#1040ba" stroke-width="1"/>
+      <path id="Path_44453" data-name="Path 44453" d="M0,0H10.613" transform="translate(1.232 16.678)" fill="none" stroke="#1040ba" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_2762" data-name="Ellipse 2762" cx="2.274" cy="2.274" r="2.274" transform="translate(63.291 405.388)" fill="#1040ba"/>
+    <circle id="Ellipse_2763" data-name="Ellipse 2763" cx="2.274" cy="2.274" r="2.274" transform="translate(66.323 405.388)" fill="#1040ba"/>
+  </g>
+</svg>

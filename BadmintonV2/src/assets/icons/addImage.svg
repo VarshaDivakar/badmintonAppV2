@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="Group_37813" data-name="Group 37813" transform="translate(-205 -378)">
+    <g id="Small_Action_Button" data-name="Small Action Button" transform="translate(205 378)">
+      <rect id="Rectangle_11" data-name="Rectangle 11" width="48" height="48" rx="10" fill="#e6ecf9"/>
+      <g id="Icon">
+        <g id="Plus">
+          <rect id="Container" width="24" height="24" transform="translate(12 12)" fill="#fff" opacity="0"/>
+        </g>
+      </g>
+    </g>
+    <g id="image" transform="translate(220 393)" style="mix-blend-mode: normal;isolation: isolate">
+      <g id="Group_37706" data-name="Group 37706">
+        <g id="Group_37705" data-name="Group 37705">
+          <path id="Path_42474" data-name="Path 42474" d="M15.7,0H2.3A2.3,2.3,0,0,0,0,2.3V15.7A2.3,2.3,0,0,0,2.3,18H15.7A2.3,2.3,0,0,0,18,15.7V2.3A2.3,2.3,0,0,0,15.7,0Zm1.24,15.7a1.241,1.241,0,0,1-1.24,1.24H2.3A1.241,1.241,0,0,1,1.06,15.7V13.766L4.55,10.8a.343.343,0,0,1,.442,0l2.186,1.815a.53.53,0,0,0,.714-.033l5.194-5.2a.343.343,0,0,1,.509.026l3.346,4.12V15.7Zm0-5.861L14.417,6.732a1.4,1.4,0,0,0-2.083-.107L7.482,11.485,5.669,9.979a1.4,1.4,0,0,0-1.806.011l-2.8,2.384V2.3A1.241,1.241,0,0,1,2.3,1.06H15.7A1.241,1.241,0,0,1,16.94,2.3Z" fill="#1040ba" stroke="#1040ba" stroke-width="0.3"/>
+        </g>
+      </g>
+      <g id="Group_37708" data-name="Group 37708" transform="translate(3.11 2.215)">
+        <g id="Group_37707" data-name="Group 37707">
+          <path id="Path_42475" data-name="Path 42475" d="M91.017,62.995a2.556,2.556,0,1,0,2.556,2.556A2.559,2.559,0,0,0,91.017,62.995Zm0,4.052a1.5,1.5,0,1,1,1.5-1.5A1.5,1.5,0,0,1,91.017,67.047Z" transform="translate(-88.461 -62.995)" fill="#1040ba" stroke="#1040ba" stroke-width="0.3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
