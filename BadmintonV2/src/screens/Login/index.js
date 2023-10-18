@@ -36,7 +36,7 @@ const Loginscreen = () => {
             <Text style={styles.forgotpinstyles}
               onPress={() => navigation.navigate(Navigations.resetPin)}>Forgot PIN ?</Text>
             <Rectanglebutton
-              onPress={() => setSelectDashModal(true)}
+             onPress={() => setSelectDashModal(true)}
               buttonStyle={{ width: '90%' }}
               label={'Login'} />
             <Rectanglebutton

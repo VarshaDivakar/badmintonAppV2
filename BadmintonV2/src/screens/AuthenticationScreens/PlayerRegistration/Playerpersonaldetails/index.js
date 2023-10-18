@@ -27,6 +27,34 @@ const Data = [
     name: 'Others',
   },
 ];
+const DATA = [
+  {
+    id: '1',
+    name: 'London',
+  },
+  {
+    id: '2',
+    name: 'Delhi',
+  },
+  {
+    id: '3',
+    name: 'Hyderabad',
+  },
+];
+const data = [
+  {
+    id: '1',
+    name: 'United Kingdom',
+  },
+  {
+    id: '2',
+    name: 'India',
+  },
+  {
+    id: '3',
+    name: 'U.S.A',
+  },
+];
 
 const Renderedform = () => {
   return (
@@ -74,7 +102,9 @@ const Renderedform = () => {
         container={{borderWidth: 0}}
         placeholder={'Re-Enter your password'}
       />
-      <DropDownSelect label={'Select your gender'} listDate={Data} />
+      <DropDownSelect label={'Select Your Gender'} listDate={Data} />
+      <DropDownSelect label={'Select Your Residence'} listDate={DATA} />
+      <DropDownSelect label={'Select Your Nationality'} listDate={data} />
     </View>
   );
 };

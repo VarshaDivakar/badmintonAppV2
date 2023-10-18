@@ -73,7 +73,7 @@ const Guardiandetailform = () => {
     <View style={{marginTop:15}}> 
       <TextInputComponent
         container={{borderWidth: 0}}
-        placeholder={'Enter your first name'}
+        placeholder={'Enter Your Name'}
       />
       <DropDownSelect
         label={'Select your relationship'}

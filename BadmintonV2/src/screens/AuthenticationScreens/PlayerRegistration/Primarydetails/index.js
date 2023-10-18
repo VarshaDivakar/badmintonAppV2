@@ -117,28 +117,22 @@ const Previousexprience = () => {
     <View style={{marginTop: 15}}>
       <TextInputComponent
         container={{borderWidth: 0}}
-        placeholder={'Enter your first name'}
+        placeholder={'Enter your Tournament Name'}
       />
-      <DropDownSelect label={'Select your relationship'} listDate={Relation} />
-      <View style={styles.phonecode}>
-        <TextInputComponent
-          container={{borderWidth: 0,  width: SIZES.width * 0.3, paddingHorizontal: 7}}
-          leftIcon={
-            <Image source={images.londonFlag} style={{height: 20, width: 35}} />
-          }
-          placeholder={'+44'}
-          inputStyle={{fontSize: 14, fontWeight: '600', color: '#100202'}}
-          rightIcon={<Dropdownarrow height={25} width={30} />}
-        />
-        <TextInputComponent
-          container={{
-            borderWidth: 0,
-            width: SIZES.width * 0.57,
-            marginLeft: -SIZES.baseX2,
-          }}
-          placeholder={''}
-        />
-      </View>
+       <TextInputComponent
+        container={{borderWidth: 0}}
+        placeholder={'Enter your Club'}
+      />
+       <TextInputComponent
+        container={{borderWidth: 0}}
+        placeholder={'Enter your League'}
+      />
+       <TextInputComponent
+        container={{borderWidth: 0}}
+        placeholder={'Enter your Achivement'}
+      />
+     
+      
     </View>
   );
 };
@@ -230,19 +224,19 @@ const Primarydetails = ({navigation}) => {
             +Add partner
           </Text>
           {underline()}
+          
           <View style={{height: 50, justifyContent: 'center'}}>
             <Text style={[styles.labelText, {left: 20}]}>
               Previous Experience
             </Text>
           </View>
           {underline()}
+          <Switchcomponent name={`Previous Experience (Enter the name of the \n tournament you participated in club,league you participated in ,and what you achived )`} glow={true}>
           {Previousexprience()}
-          <Text
-            //onPress={() => navigation.navigate(Navigations.playeradress)}
-            style={styles.addaddress}>
-            +Add Address
-          </Text>
-          {Addressform()}
+          </Switchcomponent>
+
+          
+          
           <View style={{}}>
             <Rectanglebutton
               onPress={() => navigation.navigate(Navigations.preview)}
