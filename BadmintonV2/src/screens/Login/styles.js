@@ -44,10 +44,9 @@ bottomstyles:{
     // marginTop:130,
     marginHorizontal:10,
     position:'absolute',
-    bottom:35,
+    bottom:55,
     width:SIZES.width- 20,
-    // backgroundColor:'red',
-    // flexWrap:'wrap',
+    
     alignItems:'center'
 
 },
